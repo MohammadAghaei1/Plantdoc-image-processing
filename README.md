@@ -222,17 +222,3 @@ Some false positives occurred due to **incomplete dataset annotations**, where r
 This indicates that the model became more sensitive to leaf patterns and improved detection coverage.
 
 ---
-
-# 🛠 Technology Stack
-
-Core technologies used in this project:
-
-- Python  
-- PyTorch  
-- Ultralytics YOLO  
-- OpenCV  
-- NumPy  
-- Pandas  
-- Matplotlib  
-
----
