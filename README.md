@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection System (YOLO-Based)
+# 🌿 Plant Disease Detection System
 
 An end-to-end **computer vision pipeline** designed to detect and classify plant leaf diseases from real-world agricultural imagery using modern **object detection models**.
 
